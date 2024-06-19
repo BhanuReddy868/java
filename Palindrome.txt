@@ -1,0 +1,22 @@
+public class Palindrome{
+public static void main(String args[]){
+int number=123321;
+int reverse=0;
+while(number!=0)
+{
+int rem=number%2;
+reverse=reverse*10+reminder;
+number=number/10;
+}
+System.out.println(revesre);
+if(number==reverse){
+System.out.println("palindrome");
+}
+else
+{
+System.out.println("not a palindrome");
+}
+}
+
+
+
