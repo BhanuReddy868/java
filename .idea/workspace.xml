@@ -5,23 +5,43 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c44ef263-b2ef-4161-8a83-e566c57cf002" name="Changes" comment="commit">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/core java.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core java/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core java/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core java/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core java/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core java/Pailindrome.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core java/Palindrome.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core java/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core java/core java.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core java/jtp.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core java/test.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core java/test1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core java/text.txt" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final/FinalBlank.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final/FinalBlank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final/FinalClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final/FinalMethod.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final/FinalMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final/FinalStatic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final/Finals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final/Finalstatic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Static/Static01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Static/Static01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Static/StaticBlock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Static/StaticBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Static/StaticMethod.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Static/StaticMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Static/StaticVariable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Static/StaticVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Static/StaticVariable1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Static/StaticVariable1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops/Bank$MainAccount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops/Bank$SavingAccount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops/Bank.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops/BankAccount$SavingAccount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops/BankAccount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops/MainAccount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops/SavingAccount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/Abstraction/BankAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/Abstraction/CheckingAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/Abstraction/Interfaces.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/Abstraction/Interfaces.java" beforeDir="false" afterPath="$PROJECT_DIR$/oops/Abstraction/Interface.java.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/Abstraction/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/oops/Abstraction/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/Encapsulation/Encapsulate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/Encapsulation/Encapsulate.java" beforeDir="false" afterPath="$PROJECT_DIR$/oops/Encapsulation/Encapsulate.java.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/classandobjects/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/oops/classandobjects/Car.java.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/polymorphism/RunTimePoly.java" beforeDir="false" afterPath="$PROJECT_DIR$/oops/polymorphism/RunTimePoly.java.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/polymorphism/compileTimePoly.java" beforeDir="false" afterPath="$PROJECT_DIR$/oops/polymorphism/CompileTimePoly.java.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +72,11 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.CopyArray.executor": "Run",
+    "Application.Fileoutputstream.executor": "Run",
+    "Application.FinalMethod.executor": "Run",
+    "Application.Finals.executor": "Run",
     "Application.Interfaces.executor": "Run",
+    "Application.Main.executor": "Run",
     "Application.Triangle.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -66,8 +90,38 @@
   }
 }]]></component>
   <component name="RunManager">
+    <configuration name="Fileoutputstream" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FileHandlings.Fileoutputstream" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FileHandlings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FinalMethod" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FinalMethod" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Finals" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Finals" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Interfaces" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Interfaces" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -111,7 +165,23 @@
       <option name="project" value="LOCAL" />
       <updated>1718905827951</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="commit">
+      <option name="closed" value="true" />
+      <created>1718906909956</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1718906909956</updated>
+    </task>
+    <task id="LOCAL-00005" summary="commit">
+      <option name="closed" value="true" />
+      <created>1718906953068</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1718906953068</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
