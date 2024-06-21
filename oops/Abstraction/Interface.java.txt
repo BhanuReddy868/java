@@ -1,4 +1,3 @@
-
 interface BankAccount{
     void diposit(double amount);
     void withdraw(double amount);
