@@ -5,7 +5,7 @@ import java.io.FileWriter;
 
 public class FileCreation {
     public static void main(String args[]){
-        File file=new File("test1.txt");
+        File file=new File("test.txt");
         try{
         if(file.createNewFile()){
             System.out.println("File created");

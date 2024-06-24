@@ -15,8 +15,9 @@ public class Finally {
             int j=20;
             int x=i+j;
             System.out.println(x);
+            System.out.println("thankyou");
         }
-        System.out.println("thankyou");
+
     }
     
 }
