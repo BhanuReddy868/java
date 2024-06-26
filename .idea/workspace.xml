@@ -4,51 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c44ef263-b2ef-4161-8a83-e566c57cf002" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/FileHandlings/text1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nonstatic/NonStaticBlock.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nonstatic/NonStaticBlock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Streams/StreamsExample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Streams/StreamsExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collections/ArrayList1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collections/Arraylist1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collections/Queue/DequeExample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collections/Queue/DequeExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collections/Queue/QueueExample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collections/Queue/QueueExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oops/Abstraction/AbstractionClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oops/Abstraction/AbstractionClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oops/Abstraction/BankAccount.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oops/Abstraction/Bike.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oops/Abstraction/Bus.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oops/Abstraction/Car.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oops/Abstraction/CheckingAccount.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oops/Abstraction/Circle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oops/Abstraction/ClassOnly.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oops/Abstraction/ClassOnly.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oops/Abstraction/InterfaceExample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oops/Abstraction/InterfaceExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oops/Abstraction/Interfaces.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oops/Abstraction/Interfaces.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oops/Abstraction/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oops/Abstraction/NormalClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oops/Abstraction/NormalClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oops/Abstraction/Rectangle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oops/Abstraction/Shape.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oops/Abstraction/Vehicle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oops/Encapsulation/Encapsulate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FileHandlings/Fileoutputstream.class" beforeDir="false" afterPath="$PROJECT_DIR$/FileHandlings/Fileoutputstream.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FileHandlings/Fileoutputstream.java" beforeDir="false" afterPath="$PROJECT_DIR$/FileHandlings/Fileoutputstream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collections/ArrayLink.class" beforeDir="false" afterPath="$PROJECT_DIR$/collections/ArrayLink.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collections/ArrayLink.java" beforeDir="false" afterPath="$PROJECT_DIR$/collections/ArrayLink.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collections/Arraylist.class" beforeDir="false" afterPath="$PROJECT_DIR$/collections/Arraylist.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collections/Arraylist.java" beforeDir="false" afterPath="$PROJECT_DIR$/collections/Arraylist.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oops/Abstraction/Interface.java.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oops/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/oops/Bank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oops/Encapsulation/Encapsulate.java.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/text.txt" beforeDir="false" afterPath="$PROJECT_DIR$/text.txt" afterDir="false" />
-    </list>
+    <list default="true" id="c44ef263-b2ef-4161-8a83-e566c57cf002" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -270,7 +226,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719229857063</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="commit">
+      <option name="closed" value="true" />
+      <created>1719404324018</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1719404324018</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
