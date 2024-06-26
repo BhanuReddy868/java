@@ -4,59 +4,49 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c44ef263-b2ef-4161-8a83-e566c57cf002" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exceptionshandlings/FileNotFound.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exceptionshandlings/Finally.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exceptionshandlings/Finally.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exceptionshandlings/JavaException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exceptionshandlings/MultiCatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exceptionshandlings/NestedTry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exceptionshandlings/Throw.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exceptionshandlings/Throw1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exceptionshandlings/ThrowChecked.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exceptionshandlings/ThrowUnchecked.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exceptionshandlings/Throws1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exceptionshandlings/Try1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileHandlings/BufferedStream.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileHandlings/BufferedStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileHandlings/DateFormat.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileHandlings/DateFormat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileHandlings/FileCreation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileHandlings/FileExample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileHandlings/a.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileHandlings/b.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileHandlings/output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileHandlings/text.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/arrays/SmallestArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collections/ArrayLink.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collections/ArrayLink.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collections/Arraylist.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collections/Arraylist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collections/Linkedlist.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collections/Linkedlist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collections/Vector1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/module-info.java" afterDir="false" />
+    <list default="true" id="c44ef263-b2ef-4161-8a83-e566c57cf002" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/FileHandlings/text1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nonstatic/NonStaticBlock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nonstatic/NonStaticBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Streams/StreamsExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Streams/StreamsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collections/ArrayList1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collections/Arraylist1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collections/Queue/DequeExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collections/Queue/DequeExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collections/Queue/QueueExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collections/Queue/QueueExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops/Abstraction/AbstractionClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops/Abstraction/AbstractionClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops/Abstraction/BankAccount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops/Abstraction/Bike.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops/Abstraction/Bus.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops/Abstraction/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops/Abstraction/CheckingAccount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops/Abstraction/Circle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops/Abstraction/ClassOnly.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops/Abstraction/ClassOnly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops/Abstraction/InterfaceExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops/Abstraction/InterfaceExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops/Abstraction/Interfaces.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops/Abstraction/Interfaces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops/Abstraction/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops/Abstraction/NormalClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops/Abstraction/NormalClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops/Abstraction/Rectangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops/Abstraction/Shape.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops/Abstraction/Vehicle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops/Encapsulation/Encapsulate.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exceptions handlings/FileNotFound.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exceptions handlings/Finally.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exceptions handlings/JavaException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exceptions handlings/MultiCatch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exceptions handlings/NestedTry.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exceptions handlings/Throw.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exceptions handlings/Throw1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exceptions handlings/ThrowChecked.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exceptions handlings/ThrowUnchecked.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exceptions handlings/Throws1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exceptions handlings/Try1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FileHandlings/FileCreation.java" beforeDir="false" afterPath="$PROJECT_DIR$/FileHandlings/FileCreation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/arrays/CopyArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/arrays/CopyArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collections/Vector1.java" beforeDir="false" afterPath="$PROJECT_DIR$/collections/Vector1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FileHandlings/Fileoutputstream.class" beforeDir="false" afterPath="$PROJECT_DIR$/FileHandlings/Fileoutputstream.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FileHandlings/Fileoutputstream.java" beforeDir="false" afterPath="$PROJECT_DIR$/FileHandlings/Fileoutputstream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/collections/ArrayLink.class" beforeDir="false" afterPath="$PROJECT_DIR$/collections/ArrayLink.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/collections/ArrayLink.java" beforeDir="false" afterPath="$PROJECT_DIR$/collections/ArrayLink.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/collections/Arraylist.class" beforeDir="false" afterPath="$PROJECT_DIR$/collections/Arraylist.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/collections/Arraylist.java" beforeDir="false" afterPath="$PROJECT_DIR$/collections/Arraylist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/Abstraction/Interface.java.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/oops/Bank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/Encapsulation/Encapsulate.java.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/text.txt" beforeDir="false" afterPath="$PROJECT_DIR$/text.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,9 +62,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {}
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {}
+}</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/BhanuReddy868/java.git&quot;,
@@ -93,33 +83,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Application.BufferedStream.executor": "Run",
-    "Application.CopyArray.executor": "Run",
-    "Application.FileCreation.executor": "Run",
-    "Application.FileExample.executor": "Run",
-    "Application.Fileoutputstream.executor": "Run",
-    "Application.FinalMethod.executor": "Run",
-    "Application.Finally.executor": "Run",
-    "Application.Finals.executor": "Run",
-    "Application.Interfaces.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.SmallestArray.executor": "Run",
-    "Application.Triangle.executor": "Run",
-    "Application.Vector1.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/BhanuPrasad/Desktop/core java",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "project.scopes"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.BufferedStream.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CopyArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FileCreation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FileExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Fileoutputstream.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FinalMethod.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Finally.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Finals.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Interfaces.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SmallestArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Triangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Vector1.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/BhanuPrasad/Desktop/core java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.scopes&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="BufferedStream" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BufferedStream" />
@@ -272,7 +262,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718906953068</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="commit">
+      <option name="closed" value="true" />
+      <created>1719229857063</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1719229857063</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -286,7 +284,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/oops/Bank.java</url>
-          <line>10</line>
+          <line>14</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">

@@ -23,6 +23,15 @@ public class ArrayLink{
         }*/
         ll.addAll(4,ar);
         System.out.println(ll);
-
+        Object str=ll.clone();
+        System.out.println(ll);
+       boolean b= ll.contains("String4");
+       System.out.println(b);
+        boolean b1= ar.contains("String6");
+        System.out.println(b1);
+        Object str1=ar.get(2);
+        System.out.println(str1);
+       int i=ar.indexOf("String3");
+       System.out.println(i);
     }
 }

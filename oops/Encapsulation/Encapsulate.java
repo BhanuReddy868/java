@@ -11,7 +11,7 @@ public class Encapsulate {
         return age;
     }
     public void setage(int age){
-     this.age=age;
+        this.age=age;
     }
     public void display(){
         System.out.println("name :"+name);

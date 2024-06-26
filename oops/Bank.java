@@ -1,10 +1,14 @@
  class BankAccount {
      static double balance;
      public BankAccount(double balance) {
+
          this.balance = balance;
+
      }
      public double getbalance() {
+
          return balance;
+
      }
 
      void diposit(double amount) {
