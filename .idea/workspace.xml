@@ -4,64 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c44ef263-b2ef-4161-8a83-e566c57cf002" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Exceptionshandlings/abc.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collections/Queue/PriorityQ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collections/Set/HashsetEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collections/Set/hashtable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Enum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EvenOdd.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exceptionshandlings/ThrowChecked.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exceptionshandlings/ThrowChecked1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exceptionshandlings/Try1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final/FinalClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final/FinalMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/Final/FinalMethod1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final/FinalStatic.java" beforeDir="false" afterPath="$PROJECT_DIR$/Final/FinalStatic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final/Finals.java" beforeDir="false" afterPath="$PROJECT_DIR$/Final/Finals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MethodOver.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pailindrome.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Palindrome.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prime.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Propogate.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ref.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Simple.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Strings.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/abc.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/arrays/CopyArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collections/ArrayLink.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collections/ArrayList1.java" beforeDir="false" afterPath="$PROJECT_DIR$/collections/Arraylist1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collections/Arraylist.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collections/Arraylist1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collections/Linkedlist.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collections/Queue/DequeExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collections/Queue/DequeExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/collections/Queue/DequeExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collections/Queue/QueueExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collections/Vector1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collections/Vector1.java" beforeDir="false" afterPath="$PROJECT_DIR$/collections/Vector1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/helloworld.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/.project" beforeDir="false" afterPath="$PROJECT_DIR$/java/.project" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jtp.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oops/Abstraction/AbstractionClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oops/Abstraction/BankAccount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oops/Abstraction/InterfaceExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oops/Abstraction/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/oops/Abstraction/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oops/Abstraction/NormalClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/oops/Abstraction/NormalClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oops/Bank$MainAccount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oops/Bank$SavingAccount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oops/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/oops/Bank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oops/BankAccount$SavingAccount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oops/BankAccount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oops/MainAccount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oops/SavingAccount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/text.txt" beforeDir="false" />
-    </list>
+    <list default="true" id="c44ef263-b2ef-4161-8a83-e566c57cf002" name="Changes" comment="commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -279,7 +222,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719404510489</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="commit">
+      <option name="closed" value="true" />
+      <created>1719489888743</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1719489888743</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
