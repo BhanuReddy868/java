@@ -4,7 +4,7 @@ public class FinalStatic{
         a=100;
     }
     static void demo(){
-        a=100;
+       // a=100;
         System.out.println("a = "+a);
     }
     public static void main(String args[]){

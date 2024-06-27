@@ -15,7 +15,10 @@ public class DequeExample {
         d.pollFirst();
         d.pollLast();
         d.remove("c");
-        System.out.println(d);
-
+        //System.out.println(d);
+        Iterator<String> iterator=d.iterator();
+        while(iterator.hasNext()){
+            System.out.println(iterator.next());
+        }
     }
     }

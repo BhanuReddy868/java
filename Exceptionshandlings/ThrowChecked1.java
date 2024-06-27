@@ -1,11 +1,12 @@
 import java.io.FileReader;
 import java.io.IOException;
-public class ThrowChecked {
+public class ThrowChecked1
+{
     public static void readerfile() throws IOException
     {
-    FileReader file=new FileReader("abc.txt");
+    FileReader file=new FileReader("C:/Users/BhanuPrasad/Desktop/core java/Exceptionshandlings/abc.txt");
     }
-    public static void main(Strings args[])
+    public static void main(String args[])
     {
         try{
     readerfile();

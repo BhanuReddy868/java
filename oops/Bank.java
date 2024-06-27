@@ -1,6 +1,6 @@
- class BankAccount {
+ class BankAccount1 {
      static double balance;
-     public BankAccount(double balance) {
+     public BankAccount1(double balance) {
 
          this.balance = balance;
 
@@ -25,7 +25,7 @@
      }
  }
 
- class SavingAccount extends BankAccount {
+ class SavingAccount extends BankAccount1 {
         private double interest;
 
         public SavingAccount(double balance, double interest) {
@@ -42,7 +42,7 @@
 
     public class Bank {
         public static void main(String args[]) {
-            BankAccount b = new BankAccount(1000);
+            BankAccount1 b = new BankAccount1(1000);
             b.diposit(2000);
             System.out.println("Balance after deposited   :"+b.getbalance());
             b.withdraw(300);

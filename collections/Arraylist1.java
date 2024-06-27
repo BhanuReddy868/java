@@ -1,5 +1,4 @@
 import java.util.*;
-import java.util.Collections;
 
 public class Arraylist1 {
     public static void main(String args[]) {

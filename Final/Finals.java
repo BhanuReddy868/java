@@ -1,5 +1,5 @@
 public class Finals {
-    static final int a = 101;
+    static  int a = 101;
 
     void mymethod() {
         a = 100;
